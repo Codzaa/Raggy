@@ -1,0 +1,31 @@
+# Visual Studio and .NET related files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.log
+*.tmp
+*.cache
+*.bak
+*.scc
+*.vssscc
+*.vspscc
+
+# NuGet packages
+packages/
+
+# ReSharper and other extensions
+_ReSharper*/
+*.resharper
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# Publish output
+publish/
+
+# Other common ignored files
+*.userprefs
+*.dbmdl

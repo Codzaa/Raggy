@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Raggy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6066cafeb5e24e9db7b28df6071e2d89757722c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Raggy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Raggy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
