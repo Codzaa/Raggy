@@ -1,4 +1,4 @@
-# Raggy Application[POC]
+# Raggy [POC]
 
 ## Description
 Raggy is an AI-powered application leveraging Semantic Kernel and Ollama for local model inference. It demonstrates integration with local LLMs via Ollama and provides knowledge base processing capabilities for document analysis and question-answering workflows.
